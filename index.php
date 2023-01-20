@@ -46,7 +46,7 @@
                         <th>Titulo</th>
                         <th>Descripcion</th>
                         <th>Fecha de creacion</th>
-                        <th>Accion</th>
+                        <th>Acción</th>
                     </tr>
                 </thead>
 
